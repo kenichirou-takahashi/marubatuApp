@@ -13,6 +13,7 @@
 		ADA0A7B625CC355D009F0223 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADA0A7B425CC355D009F0223 /* Main.storyboard */; };
 		ADA0A7B825CC3563009F0223 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADA0A7B725CC3563009F0223 /* Assets.xcassets */; };
 		ADA0A7BB25CC3563009F0223 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADA0A7B925CC3563009F0223 /* LaunchScreen.storyboard */; };
+		ADA0A7C425CD1474009F0223 /* QestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA0A7C325CD1474009F0223 /* QestionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ADA0A7B725CC3563009F0223 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADA0A7BA25CC3563009F0223 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ADA0A7BC25CC3563009F0223 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ADA0A7C325CD1474009F0223 /* QestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QestionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ADA0A7AE25CC355D009F0223 /* AppDelegate.swift */,
 				ADA0A7B025CC355D009F0223 /* SceneDelegate.swift */,
 				ADA0A7B225CC355D009F0223 /* ViewController.swift */,
+				ADA0A7C325CD1474009F0223 /* QestionViewController.swift */,
 				ADA0A7B425CC355D009F0223 /* Main.storyboard */,
 				ADA0A7B725CC3563009F0223 /* Assets.xcassets */,
 				ADA0A7B925CC3563009F0223 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADA0A7C425CD1474009F0223 /* QestionViewController.swift in Sources */,
 				ADA0A7B325CC355D009F0223 /* ViewController.swift in Sources */,
 				ADA0A7AF25CC355D009F0223 /* AppDelegate.swift in Sources */,
 				ADA0A7B125CC355D009F0223 /* SceneDelegate.swift in Sources */,
